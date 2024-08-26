@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply bg-gray-200;
+}
+
+/* .card-advertising {
+    @apply bg-url('/img/img-4.jpg') bg-cover bg-center;
+} */
